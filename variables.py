@@ -30,3 +30,6 @@ dst_img_root = "C:\\Users\\harri\\PycharmProjects\\robbins_and_cotran_cropping\\
 dst_img_list = create_file_path_list(dst_img_root)
 
 threshold_img_root = "C:\\Users\\harri\\PycharmProjects\\robbins_and_cotran_cropping\\threshold"
+
+pdf_src = "C:\\Users\\harri\\Box\\The Hoard\\Study Resources, Digital Textbooks\\Study Guides and Textbooks\\Klatt " \
+          "2014 - Robbins and Cotran Atlas of Pathology.pdf"
